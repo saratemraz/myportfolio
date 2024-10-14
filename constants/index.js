@@ -82,7 +82,7 @@ export const projects = [
     project_name: "My Portfolio",
     description:"This is my portfolio, I am using Next.js and Tailwind CSS. I am using Framer Motion for animation and Figma for design.",
     src: "/projects/portfolio.jpg",
-    url: "#",
+    url: "https://myportfolio-4z3lbp6bh-saratemrazs-projects.vercel.app/",
     github: "https://github.com/saratemraz/myportfolio",
     tags: ["Next.js , ","React ,", "Tailwind CSS , ", "Framer Motion"],
     width: 550,
