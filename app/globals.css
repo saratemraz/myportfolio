@@ -28,6 +28,6 @@ html {
     @apply cursor-pointer;
   }
   button {
-    @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#f9a791] to-[#f9a791] text-white;
+    @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#010101] to-[#f9a791] text-white;
   }
 }
